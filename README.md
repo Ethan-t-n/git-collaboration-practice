@@ -18,3 +18,4 @@ Kombucha
 Black Tea
 Green Tea
 Puerh
+Jasmine Tea
